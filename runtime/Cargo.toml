@@ -23,11 +23,11 @@ version = '3.0.0'
 
 [dependencies.fp-rpc]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.fp-self-contained]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.frame-benchmarking]
 branch = 'master'
@@ -73,31 +73,31 @@ git = 'https://github.com/paritytech/substrate'
 
 [dependencies.pallet-base-fee]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-dynamic-fee]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-ethereum]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-evm]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-evm-precompile-modexp]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-evm-precompile-sha3fips]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-evm-precompile-simple]
 default-features = false
-git = 'https://github.com/paritytech/frontier.git'
+git = 'https://github.com/anylots/frontier-node-template.git'
 
 [dependencies.pallet-grandpa]
 branch = 'master'

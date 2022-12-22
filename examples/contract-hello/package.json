@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paritytech/frontier.git"
+    "url": "git+https://github.com/anylots/frontier-node-template.git"
   },
   "keywords": [
     "ethereum",
