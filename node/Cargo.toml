@@ -42,34 +42,34 @@ package = 'parity-scale-codec'
 version = '3.1'
 
 [dependencies.fc-consensus]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fc-db]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fc-mapping-sync]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fc-rpc]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fc-rpc-core]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fp-consensus]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fp-dynamic-fee]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fp-evm]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fp-rpc]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.fp-storage]
-git = 'https://github.com/anylots/frontier-node-template.git'
+git = 'https://github.com/anylots/frontier.git'
 
 [dependencies.frame-benchmarking]
 branch = 'master'
